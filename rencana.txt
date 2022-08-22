@@ -1,1 +1,5 @@
+Rencana saya untuk kedepannya :
 1. Selalu belajar materi untuk menjadi seorang Front-end Web Developer.
+2. Belajar bagian dasar Front-end Web Developer seperti HTML, CSS, dan JavaScript.
+3. Membuat project kecil-kecilan untuk melatih skill.
+4. Belajar Framework CSS Bootstrap 5.
